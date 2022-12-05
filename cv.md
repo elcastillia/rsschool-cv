@@ -4,4 +4,4 @@
 ### My best friends recommended that I take a course at **Rs school**
 #### So go through it yourself.
 ##### **my skills include:**
-< _Now I am finishing a course on JS from Ivan Petrichenko_
+> _Now I am finishing a course on JS from Ivan Petrichenko_
