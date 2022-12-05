@@ -1,4 +1,4 @@
-# Kirill Galekevich
+# **Kirill Galekevich**
 ## kirill19.11.00@icloud.com
 > # Me and my friend who recommended me to enroll in the course
 ![Me and my friend](https://i.imgur.com/rSoKXs7.jpg)
